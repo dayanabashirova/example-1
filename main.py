@@ -6,3 +6,5 @@ return print('lol')
 
 def alex():
 print(what a hell)
+
+DIE
