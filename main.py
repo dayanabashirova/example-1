@@ -4,4 +4,5 @@ return	print('Hi')
 def f():
 return print('lol')
 
-def
+def alex():
+print(what a hell)
