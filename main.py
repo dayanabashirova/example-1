@@ -1,10 +1,10 @@
 def f():
-return	print('Hi')
+    return	print('Hi')
 
 def f():
-return print('lol')
+    return print('lol')
 
 def alex():
-print(what a hell)
+    print(what a hell)
 
-DIE
+# DIE
